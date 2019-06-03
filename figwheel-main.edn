@@ -1,0 +1,6 @@
+{:connect-url "ws://ndev2:9000/figwheel-connect"
+ :open-url false
+ :ring-server-options
+ {:host "0.0.0.0"
+  :port 9000}
+ }
